@@ -1,1 +1,1 @@
-[Curriculum Vitae](blob:https://github.com/f5216136-4371-4fbb-b4db-d4477cb07dd0)
+Olá! Por favor, caso queira ver meu CV, clique no arquivo .pdf do repositório, que o próprio GitHub irá exibir.
